@@ -1,0 +1,30 @@
+Year	US pup counts	est US pop based on 4.3:1 (CAN)	CAN initial estimates	CAN est w/adjusted DFO model (from graph)	total estimate (US est + CAN est)		Notes
+1960			28000	10000	10000		
+1970				15000	15000		estimate from 2016 DFO graph graph
+1980				30000	30000		estimate from 2016 DFO graph graph
+1986			100000-130000	60000	60000		total estimate 1yr old and older
+1990				75000	75000		estimate from 2016 DFO graph graph
+1993			143000	100000	100000		total estimate  
+1994		2035+(500 to1000)		110000	112800		
+1999		5611		175000	180611		
+2000				180000			
+2001	917	3943.1		190000	193943		"in the 2019 stock assessment, Beth applied the Canada observed adult:pup estimate of 4.3:1 to the pup counts in order to estimate US population"
+2002	656	2820.8		200000	202821		the 2019 stock assessment has a summary of pup counts from 2001-2016
+2003	1000	4300		210000	214300		
+2004	1391	5981.3		230000	235981		
+2005	1158	4979.4		250000	254979		
+2006	2134	9176.2		270000	279176		
+2007	2622	11274.6		290000	301275		
+2008		0		300000			
+2009	2046	8797.8					
+2010	3676	15806.8		320000	335807		
+2011	3019	12981.7					
+2012	3387	14564.1	331000	331000	345564		
+2013	3827	16456.1					
+2014	2824	12143.2	505000	394400	406543		"based on 2016 DFO report, adjusted prior estimate of 505K based on new info of sex ratio"
+2015	6308	27124.4					
+2016	6308	27131	424300	424300	451431		2016 DFO report
+2017					471294		predict based on DFO 2016 population increase estimate of 4.4%
+2018					492031		predict based on DFO 2016 population increase estimate of 4.4%
+2019					513680		predict based on DFO 2016 population increase estimate of 4.4%
+2020					536282		predict based on DFO 2016 population increase estimate of 4.4%
