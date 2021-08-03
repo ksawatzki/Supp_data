@@ -1,0 +1,23 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) 
+scale(CP1+2.kappa)                                0.327   705102     359791   0.51     0.2386      
+scale(CP3.kappa)                                  0.308   704540     350713   0.5      0.2395      
+frequencies                                       0.029   702809     647922   0.92     0.2374      
+scale(CP1+2.alpha)                                0.158   705095     362518   0.51     0.2406      
+scale(CP3.alpha)                                  0.141   704461     350811   0.5      0.2403      
+scale(ucld.mean)                                  0.728   2113778    1967314  0.93     0.2342      
+scale(ucld.stdev)                                 0.545   2112426    1964893  0.93     0.2364      
+up:nodeHeights(treeModel) down:ucld.mean          0.998   2113722    1378403  0.65     0.2316      
+swapOperator(branchRates.categories)                      7044656    1390473  0.2      0.5593      
+uniformInteger(branchRates.categories)                    7040032    1187322  0.17     0.6811      
+allNus                                            0.219   2114189    1937785  0.92     0.241       
+subtreeSlide(treeModel)                           0.364   21128702   3116237  0.15     0.2325      
+Narrow Exchange(treeModel)                                21128839   2934098  0.14     0.3083      
+Wide Exchange(treeModel)                                  2112102    96570    0.05     0.0136      
+wilsonBalding(treeModel)                                  2110828    370075   0.18     0.0296      
+scale(treeModel.rootHeight)                       0.121   2113394    348365   0.16     0.24        
+uniform(nodeHeights(treeModel))                           21119594   4457751  0.21     0.6217      
+scale(exponential.popSize)                        0.417   2114000    137127   0.06     0.2376      
+exponential.growthRate                            0.046   2111731    137154   0.06     0.2318      
+

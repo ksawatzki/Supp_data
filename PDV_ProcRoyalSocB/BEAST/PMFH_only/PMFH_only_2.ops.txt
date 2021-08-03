@@ -1,0 +1,23 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) 
+scale(CP1+2.kappa)                                0.33    704479     285220   0.4      0.2394      
+scale(CP3.kappa)                                  0.286   703733     274917   0.39     0.2397      
+frequencies                                       0.031   702562     518044   0.74     0.2375      
+scale(CP1+2.alpha)                                0.134   704452     285704   0.41     0.2403      
+scale(CP3.alpha)                                  0.121   704748     275752   0.39     0.2398      
+scale(ucld.mean)                                  0.73    2112708    1969465  0.93     0.234       
+scale(ucld.stdev)                                 0.416   2112367    1969311  0.93     0.2363      
+up:nodeHeights(treeModel) down:ucld.mean          0.999   2112481    1371674  0.65     0.2316      
+swapOperator(branchRates.categories)                      7043129    1089717  0.15     0.5607      
+uniformInteger(branchRates.categories)                    7041142    912218   0.13     0.6826      
+allNus                                            0.307   2112970    1549960  0.73     0.2411      
+subtreeSlide(treeModel)                           0.395   21129417   2557576  0.12     0.2325      
+Narrow Exchange(treeModel)                                21124029   2386071  0.11     0.3084      
+Wide Exchange(treeModel)                                  2112264    78102    0.04     0.0136      
+wilsonBalding(treeModel)                                  2112294    308525   0.15     0.0299      
+scale(treeModel.rootHeight)                       0.12    2112729    273987   0.13     0.2402      
+uniform(nodeHeights(treeModel))                           21129562   3546425  0.17     0.6219      
+scale(exponential.popSize)                        0.428   2112629    101722   0.05     0.238       
+exponential.growthRate                            0.048   2112305    101088   0.05     0.2321      
+
