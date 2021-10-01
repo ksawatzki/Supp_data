@@ -1,4 +1,4 @@
-Data and analysis for "Longitudinal analysis of pinnipeds in the Northwest Atlantic provides insights on endemic circulation to Phocine distemper virus"
+Data and analysis for "Longitudinal analysis of pinnipeds in the Northwest Atlantic provides insights on endemic circulation of Phocine distemper virus"
 
 If you have questions, please contact:
 
